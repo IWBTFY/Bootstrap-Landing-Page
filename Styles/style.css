@@ -1,0 +1,58 @@
+/* Fonts 'KingsHand' */
+@font-face {
+  font-family: "Vazir", sans-serif;
+  src: url("../fonts/vazir-font-v16.1.0/Vazir.eot");
+
+  src: url("../fonts/vazir-font-v16.1.0/Vazir.woff2") format("woff2"),
+    url("../fonts/vazir-font-v16.1.0/Vazir.woff") format("woff"),
+    url("../fonts/vazir-font-v16.1.0/Vazir.ttf") format("truetype");
+}
+
+body {
+  font-family: "Vazir" !important;
+}
+
+.col-6 img {
+  height: 200px;
+  width: 200px;
+}
+
+.stackIcon {
+  color: #0d6efd;
+  background-color: #ebeafb;
+  display: inline-flex;
+  padding: 15px;
+  border-radius: 15px;
+}
+
+#cardToper {
+  margin-top: 15% !important;
+}
+
+.card-style {
+  background-color: rgb(19, 17, 44) !important;
+  color: white;
+}
+
+.section5Images {
+  height: 50px;
+  width: auto;
+}
+
+#exampleFormControlInput1 {
+  direction: rtl !important;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+a:hover {
+  color: rgb(0, 239, 92);
+}
+
+.footer-cherpert {
+  padding-bottom: 15px;
+  border-bottom: 3px solid #000;
+}
