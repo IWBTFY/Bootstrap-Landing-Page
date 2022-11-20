@@ -38,6 +38,6 @@
 
 # Design Images for Mobile:
 
-![First Mobile](Design_Image/first-mobile.png)
+![First Mobile](Design_Image/first-Mobile.png)
 
-![First Mobile](Design_Image/Second-Mobile.png)
+![Second Mobile](Design_Image/Second-Mobile.png)
