@@ -2,8 +2,6 @@
 
 #### Simple and fast fully responsive " Bootstrap landing page " that takes less than an hour to make. ⏱️
 
-#### hour to make.
-
 ---
 
 ## Landing Page Components are :
