@@ -24,7 +24,7 @@
 
 ### Generally it was quick practice to test out my Bootstrap Knowledge and skills
 ### Please use it to imporove yours as well if not I hope it may give you ideas or inspire you.
-### **I am aware of clean code issues. **This is JUST FOR learning purposes** 
+### I am aware of clean code issues. **This is JUST FOR learning purposes** 
 ### And it is "not" suitable for landing real project and this is **just a small step for getting there**.
 ### Thanks for checking it out make sure to give it a star. 🥰🍷
 
