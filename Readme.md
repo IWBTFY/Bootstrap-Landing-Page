@@ -7,7 +7,7 @@
 ## Landing Page Components are :
 
 - ### Contains responsive header with hamburger menu.
-- ### 6 well designed sections responsive sections.
+- ### 6 well designed  responsive sections.
 - ### It is rtl and and designed for rtl supported languages but it is also swapable.
 - ### Package Card design with buttons.
 - ### Random wavy designs to separate sections.
